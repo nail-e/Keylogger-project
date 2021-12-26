@@ -13,4 +13,4 @@ The .exe runs in the background, logging every keystroke, and sending that keyst
 It will send an email every 20 seconds, although, this can be changed by changing the value of SEND_REPORT_EVERY.
 
 <h4> Can I use the .exe embedded? </h4>
-Sure, though, the .exe will send it to no email, it's just an example on how the program would look like.  
+Sure, though, the .exe will send the inputs to no email, it's just an example on how the program would look like.  
